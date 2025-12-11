@@ -42,7 +42,7 @@ quran-radio/
 │   ├── style.css       # التنسيقات
 │   └── app.js          # جلب البيانات والتشغيل
 │
-├── server.js           # خادم بسيط (Node.js Proxy)
+├── server.js           # خادم بسيط (Node.js )
 ├── package.json
 └── README.md           # هذا الملف
 ```
@@ -69,7 +69,7 @@ node server.js
 http://localhost:3000
 ```
 
-> ملاحظة: الخادم يعمل كـ **Proxy** لتجاوز CORS عند جلب البيانات من `https://api.cms.itqan.dev`.
+
 
 ------
 
