@@ -1,4 +1,4 @@
-# **Quran Radio  راديو تلاوات عالية الجودة معتمد على Itqan CMS API**
+# راديو تلاوات عالية الجودة معتمد على Itqan CMS API
 
 تطبيق ويب خفيف وحديث لعرض وتشغيل تلاوات القرآن الكريم باستخدام الواجهة البرمجية **Itqan CMS Developers API**.
  يعرض التطبيق:
@@ -14,6 +14,15 @@
 
 ------
 
+##  لقطات من التطبيق Screenshots
+
+###  الوضع الداكن
+![Dark Mode](https://github.com/engsaleh/quran-radio/blob/main/imgs/%D8%B1%D8%A7%D8%AF%D9%8A%D9%88%20%D8%A7%D9%84%D8%AA%D9%84%D8%A7%D9%88%D8%A7%D8%AA%20%D8%AF%D8%A7%D9%83%D9%86.png?raw=true)
+
+### الوضع الفاتح
+![Light Mode](https://github.com/engsaleh/quran-radio/blob/main/imgs/%D8%B1%D8%A7%D8%AF%D9%8A%D9%88%20%D8%A7%D9%84%D8%AA%D9%84%D8%A7%D9%88%D8%A7%D8%AA%20%D9%81%D8%A7%D8%AA%D8%AD.png?raw=true)
+
+---
 ##  **مميزات التطبيق**
 
 -  جلب مباشر للتلاوات من **Itqan CMS Developers API**
