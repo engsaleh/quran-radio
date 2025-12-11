@@ -1,0 +1,15 @@
+
+{
+  "name": "itqan-quran-spotify-radio",
+  "version": "1.0.0",
+  "description": "Dual-mode (dark/light) Spotify-style Quran radio using Itqan CMS Developers API.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
